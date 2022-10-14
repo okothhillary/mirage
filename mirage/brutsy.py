@@ -1,0 +1,16 @@
+"""
+Brutsy
+
+This programme runs all character combinations of the given length of a passcode.
+
+Author: Hillary Okoth
+
+Version: 1.0
+
+"""
+
+from string import ascii_letters, digits, punctuation
+from itertools import product
+
+for passcode in product(ascii_letters + digits + punctuation, repeat=4):
+    print("".join(passcode)) 
