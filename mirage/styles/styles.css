@@ -383,9 +383,31 @@ main section img {
 
 
 @media screen and (max-width: 900px) {
+    header{
+        display: grid;
+        grid-template-columns: 150px  auto;
+        background-color: transparent;
+        opacity: 1;
+        color: white;
+        font-family:'Peralta', 'Helvetica', 'Arial', 'Sans serif';
+    }
     #hero, .home-grid, .results-grid{
         display: block;
         height: auto;
+        
+    }
+
+    nav {
+
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    nav a{
+        text-align: center;
+        color: white;
+        text-decoration: none;
+        padding: 35px;
     }
     nav, footer {
         flex-direction: column;
