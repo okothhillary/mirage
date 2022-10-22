@@ -69,6 +69,13 @@ nav {
     flex-direction: column;
     align-items: center;
 }
+nav a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 35px;
+}
+
 #report-card, table {
     align-self: center;
     margin: 0 auto;
@@ -383,14 +390,7 @@ main section img {
 
 
 @media screen and (max-width: 900px) {
-    header{
-        display: grid;
-        grid-template-columns: 150px  auto;
-        background-color: transparent;
-        opacity: 1;
-        color: white;
-        font-family:'Peralta', 'Helvetica', 'Arial', 'Sans serif';
-    }
+   
     #hero, .home-grid, .results-grid{
         display: block;
         height: auto;
@@ -398,17 +398,10 @@ main section img {
     }
 
     nav {
-
         display: flex;
         justify-content: space-around;
     }
     
-    nav a{
-        text-align: center;
-        color: white;
-        text-decoration: none;
-        padding: 35px;
-    }
     nav, footer {
         flex-direction: column;
     }
@@ -416,6 +409,7 @@ main section img {
         display: block;
         padding: 15px;
     }
+
     #hero {
         margin-top: 0;
     }
