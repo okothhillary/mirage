@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>GIET University - Student Result Management System</title>
+    <title>Student Result Management System</title>
 </head>
 
 <body>
