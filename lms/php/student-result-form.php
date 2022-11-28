@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>GIET University - Check Your Results Here</title>
+    <titleCheck Your Results Here</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="IE=7" />
@@ -28,7 +28,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="../index.html">
-            <img class="logo-one" src="../assets/logo and favicon/University-Logo.png" alt="Navbar logo" />
+            <img class="logo-one" src="../assets/logo and favicon/school-Logo.png" alt="Navbar logo" />
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -66,7 +66,7 @@
     </nav>
 
     <h1 class="head text-center">
-        Here is Your Result
+        Here are Your Results (umechimba!)
     </h1>
 
     <?php
@@ -152,7 +152,7 @@
 
                 echo "<tr>";
                 echo "<th scope='row'>5</th>";
-                echo "<td>Communicative English & Technical Commuincation</td>";
+                echo "<td>English</td>";
                 echo "<td>" . $data["cetc"] . "</td>";
                 echo "<td>/ 50</td>";
                 echo "</tr>";
@@ -194,31 +194,24 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6">
                         <a href="../index.html">
-                            <img class="logo2" src="../assets/logo and favicon/University-Logo.png" alt="logo2" />
+                            <img class="logo2" src="../assets/logo and favicon/school-Logo.png" alt="logo2" />
                         </a>
                         <p class="content1">
-                            GIET University formerly known as Gandhi Institute of
-                            Engineering & Technology, Gunupur attained autonomous status in
-                            the year 2017 and again added another gleaming feather to its
-                            cap with the conferment of the University Status through an act
-                            of Odisha Legislative Assembly and forthwith approved by UGC,
-                            New Delhi in 2018.
+                            [Your High School info]
                             <br /><br />
-                            Our vision is to be a renowned and Globally Recognized
-                            University giving importance to academic excellence with latest
-                            technology, Research, Innovation and Entrepreneurial Attitude.
+                            Our vision is to be ...
                         </p>
                     </div>
 
                     <div class="col-lg-4 col-md-6">
                         <h6 class="content2">CONTACT US</h6>
                         <div class="social-icons">
-                            <a class="icon-link" href="https://www.facebook.com/gietuniversitygunupur/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                            <a class="icon-link" href="https://www.instagram.com/gietuniversitygunupur/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                            <a class="icon-link" href="https://twitter.com/gietuniversity/"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                            <a class="icon-link" href="https://www.linkedin.com/company/gietgunupur/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                            <a class="icon-link" href="https://www.youtube.com/gietuniversitygunupur/"><i class="fa fa-youtube" aria-hidden="true"></i></a>
-                            <a class="icon-link" href="https://api.whatsapp.com/send?phone=77357 45535&amp;text=I%20want%20to%20know%20more%20about%20GIET University%20%20%20"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+                            <a class="icon-link" href="https://www.facebook.com/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                            <a class="icon-link" href="https://www.instagram.com/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                            <a class="icon-link" href="https://twitter.com/"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                            <a class="icon-link" href="https://www.linkedin.com/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            <a class="icon-link" href="https://www.youtube.com/"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                            <a class="icon-link" href="https://api.whatsapp.com/send?phone=7845 08315&amp;text=I%20want%20to%20know%20more%20about%20[Your High School]%20%20%20"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
 
                             <br /><br />
                             <p class="contact-details">
@@ -229,22 +222,22 @@
                                 <i class="fa fa-phone" aria-hidden="true"></i> &nbsp; +91
                                 7735745535, 06857-250172 <br /><br />
                                 <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp;
-                                Gobriguda, Po- Kharling, Gunupur,Rayagada, Odisha -765022
+                                
                             </p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 mt-3">
-                        <h4>GIET University, Gunupur</h4>
+                        <h4>[Your High School]</h4>
                         <div>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.370597045841!2d83.82906381455042!3d19.047436857820166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3c96658f8652ad%3A0x7dafcb1b8586f019!2sGIET%20University!5e0!3m2!1sen!2sin!4v1597123573187!5m2!1sen!2sin" width="440" height="440" frameborder="0" style="border: 0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb"" width="440" height="440" frameborder="0" style="border: 0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="footer2">
-                GIET University&nbsp;&copy;&nbsp;2020 All Rights Reserved.
+                [Your High School]&nbsp;&copy;&nbsp;2020 All Rights Reserved.
             </div>
         </div>
     </footer>
