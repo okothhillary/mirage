@@ -40,6 +40,7 @@ if (isset($_POST['submit'])) {
             if ($row == true) {
 
             ?>
+
                 <script>
                     alert('Details Added Successfully!');
                     window.open('../service-pages/admin-exam-details-upload.html', '_self');
